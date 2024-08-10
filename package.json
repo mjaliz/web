@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
   "devDependencies": {
     "typescript": "^5.5.4"
   }
